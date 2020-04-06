@@ -1,0 +1,79 @@
+/* common */
+.top_2p {
+	margin-top: 2%;
+} 
+
+.top_3p {
+	margin-top: 3%;
+} 
+
+.top_4p {
+	margin-top: 4%;
+}
+
+.top_5p {
+	margin-top: 5%;
+}
+
+.height_45px {
+	height: 45px;
+}
+
+button {
+	width: 12%;
+	height: 35px;
+	background: black;
+	color: white;
+	float: right !important;
+	margin-right: 7px;
+}
+
+/* Home.jsp */
+.listMenu {
+	padding-left: 21%;
+    padding-top: 18px;
+    border: 2px solid;
+    height: 60px;
+}
+
+.listMenu a {
+    font-size: 18px;
+   	font-weight: 600;
+   	margin-left: 16%;
+   	cursor: pointer;
+   	color: black;
+}
+
+.main_banner .carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 380px;
+}
+
+.board_section .table{
+	text-align: center;
+	border-top: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid;
+    table-layout:fixed;
+}
+
+.board_section td{
+	text-overflow:ellipsis; 
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.board_section th {
+	text-align: center;
+	font-size: 18px;
+}
+
+.board_section tr {
+    border-bottom: 2px solid;
+}
+
+.board_section thead tr {
+    border-bottom: 3px solid;
+}
