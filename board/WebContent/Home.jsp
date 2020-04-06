@@ -25,7 +25,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>게시판</title>
+<title>게시판123</title>
 </head>
 <body class="container top_2p">
 	<section class="topMenu_section">
