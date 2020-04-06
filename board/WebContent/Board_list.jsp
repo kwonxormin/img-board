@@ -35,7 +35,7 @@
 			<button onclick="location.href='<%=request.getContextPath()%>/SignUp.jsp'">회원가입</button>
 		</div>
 		<div class="listMenu">
-			<a class="board_list">* 게시판</a>
+			<a class="board_list" style="color:red;">* 게시판</a>
 			<a class="gallery_list">* 갤러리 게시판</a>
 		</div>
 	</section>
