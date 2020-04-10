@@ -30,8 +30,8 @@
 <body class="container top_2p">
 	<section class="topMenu_section">
 		<div class="join height_45px">
-			<button onclick="location.href='<%=request.getContextPath()%>/Login.jsp'">로그인</button>
 			<button onclick="location.href='<%=request.getContextPath()%>/SignUp.jsp'">회원가입</button>
+			<button onclick="location.href='<%=request.getContextPath()%>/Login.jsp'">로그인</button>
 		</div>
 		<div class="listMenu">
 			<a class="board_list">* 게시판</a>
@@ -87,13 +87,6 @@
 	
 	<section class="board_section top_4p">
 		<table class="table">
-			<!-- <colgroup>
-				<col style="width:20%"/>
-				<col style="width:30%;"/>
-				<col style="width:30%"/>
-				<col style="width:20%"/>
-			</colgroup> -->
-			
 			<thead>
 				<tr>
 					<th colspan="4">최근 게시물</th>

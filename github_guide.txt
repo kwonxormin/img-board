@@ -7,7 +7,8 @@ https://wonderbout.tistory.com/64 참고
 git config --global user.name "사용자" 
 git config --global user.email "사용자 이메일"
 
-3. git push origin master (커밋 후 업로드) 하기 위해 설치 후 최초 1회 편집
+3. 자격증명
+- git push origin master (커밋 후 업로드) 하기 위해 설치 후 최초 1회 편집
 제어판 - 사용자 계정 - Windows 자격 증명 관리 - github.com 선택 후 편집
  	주소 : git:https://github.com 
 	사용자 이름: kwonxormin (계정명) 
